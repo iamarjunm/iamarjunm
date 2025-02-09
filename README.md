@@ -17,6 +17,6 @@ I'm a **Full-Stack Web Developer** with a passion for building scalable and effi
 - 📝 Writing and sharing knowledge through blogs and publications  
 
 ### 📌 Let's Connect!  
-📬 **Email:** [Your Email] *(arjunhero38@gmail.com)*  
+📬 **Email:** [arjunhero38@gmail.com]
 
 Let's collaborate and build something amazing! 🚀✨  

@@ -6,9 +6,9 @@
 I'm a **Full-Stack Web Developer** with a passion for building scalable and efficient applications. Currently, I'm pursuing **B.Tech CSE (AI/ML)** at **Manipal University Jaipur**. Alongside coding, I am also a **published author and poet**, blending creativity with technology.  
 
 ### 🔧 Tech Stack  
-- **Frontend:** React, HTML, CSS  
+- **Frontend:** React, Next, HTML, CSS, Tailwind CSS
 - **Backend:** Node.js, Express.js  
-- **Database:** PostgreSQL, MySQL
+- **Database:** PostgreSQL, MySQL, MongoDB
 - **Tools & Platforms:** Git, GitHub, Sanity CMS, Firebase, Vecel, AWS
 
 ### 🚀 What I'm Working On  
